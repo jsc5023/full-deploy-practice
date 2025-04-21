@@ -1,6 +1,6 @@
 variable "prefix" {
   description = "Prefix for all resources"
-  default     = "lldj123414"
+  default     = "dev"
 }
 
 variable "region" {
